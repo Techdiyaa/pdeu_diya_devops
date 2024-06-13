@@ -7,7 +7,7 @@ public class ThreeAddressCode {
         float d = 4.0f;
         float e = 5.0f;
 
-        // Perform computations modifieddddd
+        // Perform computations modifieddddd here i am using fetch command
         float temp1 = a + b;
         float temp2 = temp1 + c;
         float temp3 = temp2 + d;
